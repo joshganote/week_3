@@ -1,0 +1,16 @@
+## Type your responses on a new line
+
+How would you do the following:
+
+# 1 - Find the number of items in an array?
+NAME.length
+# 2 - Add a new value to the end of an array?
+NAME.push('...');
+# 3 - Add a new value to the beginning of an array?
+NAME.unshift('...')
+# 4 - Remove the last item in an array?
+NAME.pop()
+# 5 - Remove the first item in an array?
+NAME.shift()
+# 6 - Create a new, empty array and assign it to a variable?
+let bagel=[];

@@ -1,0 +1,14 @@
+# Type your responses on a new line
+
+# 1 - Describe the benefit(s) of using loops in your code.
+-Allows your block of code to continue running repeated actions
+-Helps get more done while using less code lines
+# 2 - What kind of loop would you want to use if you wanted to do something a certain number of times: for or while?
+For
+# 3 - What kind of loop would you want to use if you wanted to do something as long as a condition were true: for or while?
+While
+# 4 - What is wrong with the argument of this for loop: `for(i = 0; i < array.length; i++)`?
+The loop is missing the variable in which to tie the index to.
+Should say for(let i=0; i<array.length; i++)
+# 5 - What does it mean if you get a console error like this: "Uncaught ReferenceError: i is not defined"?
+The 'i' was created inside the code block, and doesn't exist outside.
